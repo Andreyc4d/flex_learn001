@@ -309,3 +309,26 @@ h2.title {
     color: rgb(74, 74, 74);
 
 }
+.footer {
+    min-height: 166px;
+    background-color: rgb(26, 26, 26);
+    padding: 60px 0;
+    text-align: center;
+}
+
+.footer a {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: rgb(136, 136, 136);
+    text-decoration: underline;
+}
+.footer .footer_pol {
+    /* border-left: solid rgb(136, 136, 136);
+    padding-left: 2px; */
+}
+.footer .footer_tel {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: rgb(136, 136, 136);
+    text-decoration: underline;
+}
